@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://astro-lane.vercel.app/sitemap-index.xml

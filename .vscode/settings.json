@@ -16,5 +16,8 @@
     },
     "eslint.options": {
         "overrideConfigFile": "eslint.config.mjs"
+    },
+    "[astro]": {
+        "editor.defaultFormatter": "astro-build.astro-vscode"
     }
 }

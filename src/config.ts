@@ -34,14 +34,7 @@ export const SOCIALS: SocialMediaObjects = [
         name: "Mail",
         href: "mailto:guillaume.calderon@etu.univ-lyon1.fr",
         title: `Send me email`,
-        icon: "",
+        icon: "ic:baseline-email",
         active: false
     },
-    {
-        name: "RootMe",
-        href: "https://www.root-me.org/FlashOnFire_",
-        icon: "",
-        title: `Find me on RootMe`,
-        active: true
-    }
 ];

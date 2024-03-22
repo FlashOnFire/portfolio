@@ -1,30 +1,30 @@
 [
     {
         "id": "1",
-        "title": "Avenue Labs",
-        "logo": "/icons/avenue-icon.png",
-        "link": "https://www.avenuelabs.co/",
-        "shortExcerpt": "After-hours digital playground."
+        "title": "Onyx",
+        "logo": "/icons/onyx-icon.png",
+        "link": "https://onyx-lyon1.github.io/",
+        "shortExcerpt": "All-in-one app to manage all services of the Lyon1 University."
     },
     {
         "id": "2",
-        "title": "Clark",
+        "title": "Rashnawa",
         "link": "https://www.clark.avenuelabs.co/",
         "logo": "/icons/clark-icon.png",
-        "shortExcerpt": "The definitive marketing agency template."
+        "shortExcerpt": "A MetroidVania game focused on platforming and exploration developed in C++ with SFML."
     },
     {
         "id": "3",
-        "title": "Flash",
-        "link": "https://www.flash.avenuelabs.co/",
-        "logo": "/icons/flash-icon.png",
-        "shortExcerpt": "Landing page template built for digital agencies."
+        "title": "MirrorVerse",
+        "link": "https://github.com/FlashOnFire/MirrorVerse",
+        "logo": "/icons/mirrorverse-icon.png",
+        "shortExcerpt": "A modelisation tool to simulate the reflection of light on multiple mirrors in N dimensions developed in Rust."
     },
     {
         "id": "3",
-        "title": "Articoole",
+        "title": "AuttGames",
         "link": "https://www.articoole.avenuelabs.co/",
         "logo": "/icons/articoole-icon.png",
-        "shortExcerpt": "Making content creation a breeze. AI Saas landing page template."
+        "shortExcerpt": "A website to play simples games online such as Morpion or a revised version of the Dino Game"
     }
 ]

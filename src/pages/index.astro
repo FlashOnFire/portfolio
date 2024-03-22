@@ -2,7 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import SectionContainer from "@/components/SectionContainer.astro";
 import { Image } from "@astrojs/image/components";
-import profileImage from "../../public/icons/avenue-icon-alt.png";
+import profileImage from "../../public/icons/favicon.png";
 import projectData from "@/data/projectData.json";
 import CardGroup from "@/components/card/CardGroup.astro";
 import Card from "@/components/card/Card.astro";
@@ -73,7 +73,7 @@ const sortedPosts = posts
                             link={project.link}
                             target="_blank"
                         >
-                            {!!project.badgeContent && (
+                            <!--{!!project.badgeContent && (
                                 <div class="badge-group inline-flex text-sm w-auto relative mb-0 m-6">
                                     <div class="badge-group--container w-auto items-center rounded-full border border-neutral-300 bg-white px-1 py-[2px] font-medium text-primary-500 inline-flex">
                                         <div class="badge-group--message px-2">
@@ -81,7 +81,7 @@ const sortedPosts = posts
                                         </div>
                                     </div>
                                 </div>
-                            )}
+                            )}-->
                             <CardBody>
                                 <CardImage
                                     src={project.logo}
