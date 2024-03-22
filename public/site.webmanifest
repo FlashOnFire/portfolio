@@ -1,0 +1,19 @@
+{
+    "name": "Portfolio | Guillaume Calderon",
+    "short_name": "Guillaume Calderon",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.ico",
+            "sizes": "256x256",
+            "type": "image/x-icon"
+        }
+    ],
+    "theme_color": "#f5f5f5",
+    "background_color": "#f5f5f5",
+    "display": "standalone"
+}
