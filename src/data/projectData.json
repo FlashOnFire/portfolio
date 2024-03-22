@@ -9,7 +9,7 @@
     {
         "id": "2",
         "title": "Rashnawa",
-        "link": "https://www.clark.avenuelabs.co/",
+        "link": "https://github.com/FlashOnFire/Rashnawa",
         "logo": "/icons/clark-icon.png",
         "shortExcerpt": "A MetroidVania game focused on platforming and exploration developed in C++ with SFML."
     },
@@ -23,8 +23,8 @@
     {
         "id": "3",
         "title": "AuttGames",
-        "link": "https://www.articoole.avenuelabs.co/",
+        "link": "https://github.com/Claquettes/auttgames",
         "logo": "/icons/articoole-icon.png",
-        "shortExcerpt": "A website to play simples games online such as Morpion or a revised version of the Dino Game"
+        "shortExcerpt": "https://github.com/Claquettes/auttgames"
     }
 ]
