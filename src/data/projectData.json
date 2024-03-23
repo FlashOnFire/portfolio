@@ -25,6 +25,6 @@
         "title": "AuttGames",
         "link": "https://github.com/Claquettes/auttgames",
         "logo": "/icons/articoole-icon.png",
-        "shortExcerpt": "https://github.com/Claquettes/auttgames"
+        "shortExcerpt": "A collection of online games in JS with Node.js and Express."
     }
 ]
