@@ -25,9 +25,9 @@ export const SOCIALS: SocialMediaObjects = [
     },
     {
         name: "LinkedIn",
-        href: "https://github.com/christian-luntok/astro-lane/",
+        href: "https://www.linkedin.com/in/guillaumecalderon/",
         icon: "ph:linkedin-logo-duotone",
-        title: `Follow ${SITE.title} on LinkedIn`,
+        title: `Follow me on LinkedIn`,
         active: true
     },
     {
