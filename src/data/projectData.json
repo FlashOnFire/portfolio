@@ -4,27 +4,27 @@
         "title": "Onyx",
         "logo": "/icons/onyx-icon.png",
         "link": "https://onyx-lyon1.github.io/",
-        "shortExcerpt": "All-in-one app to manage all services of the Lyon1 University."
+        "shortExcerpt": "Une app tout en un pour gérer les services de l'Université Lyon 1"
     },
     {
         "id": "2",
         "title": "Rashnawa",
         "link": "https://github.com/FlashOnFire/Rashnawa",
         "logo": "/icons/clark-icon.png",
-        "shortExcerpt": "A MetroidVania game focused on platforming and exploration developed in C++ with SFML."
+        "shortExcerpt": "Un jeu 2D axé sur l'exploration développé en C++ avec SFML"
     },
     {
         "id": "3",
         "title": "MirrorVerse",
         "link": "https://github.com/FlashOnFire/MirrorVerse",
         "logo": "/icons/mirrorverse-icon.png",
-        "shortExcerpt": "A modelisation tool to simulate the reflection of light on multiple mirrors in N dimensions developed in Rust."
+        "shortExcerpt": "Outil de modélisation de reflexion de rayons lumineux en N dimensions développé en Rust avec OpenGL"
     },
     {
         "id": "3",
         "title": "AuttGames",
         "link": "https://github.com/Claquettes/auttgames",
         "logo": "/icons/articoole-icon.png",
-        "shortExcerpt": "A collection of online games in JS with Node.js and Express."
+        "shortExcerpt": "Une collection de jeux webs avec un backend Node.JS utilisant express"
     }
 ]
