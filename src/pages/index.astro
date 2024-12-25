@@ -1,7 +1,7 @@
 ---
 import Layout from "@/layouts/Layout.astro";
 import SectionContainer from "@/components/SectionContainer.astro";
-import { Image } from "@astrojs/image/components";
+import { Image } from 'astro:assets';
 import profileImage from "../../public/icons/favicon.png";
 import projectData from "@/data/projectData.json";
 import CardGroup from "@/components/card/CardGroup.astro";
@@ -36,7 +36,6 @@ const sortedPosts = posts
                 alt={"Guillaume Calderon"}
                 width={160}
                 height={160}
-                aspectRatio={1 / 1}
                 format={"webp"}
                 class="rounded-full h-32 w-32 bg-neutral-50 object-cover p-4"
             />

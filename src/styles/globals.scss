@@ -14,15 +14,15 @@
 */
 
 // Core CSS Reset/MISCS
-@import "core/misc";
+@use "core/misc";
 
 // Core Declarations
-@import "core/variables";
+@use "core/variables";
 
 // Core Layouts and Style Definitions
-@import "core/general";
-@import "core/typography";
-@import "core/utilities";
+@use "core/general";
+@use "core/typography";
+@use "core/utilities";
 
 // Core Plugins
 // @import "plugins/plugin-tailwind";

@@ -6,7 +6,7 @@
 
 **/
 
-@import 'variables/functions';
-@import 'variables/general-variables';
-@import 'variables/tailwind-core';
-@import 'variables/fonts';
+@use 'variables/functions';
+@use 'variables/general-variables';
+@use 'variables/tailwind-core';
+@use 'variables/fonts';

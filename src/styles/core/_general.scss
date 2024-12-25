@@ -1,3 +1,6 @@
+@use "variables/functions";
+@use "variables/general-variables";
+
 /**
 
 =========================================================
@@ -10,8 +13,8 @@ html {
 }
 
 body {
-    font-family: $body-font;
-    letter-spacing: rem(-0.5);
+    font-family: general-variables.$body-font;
+    letter-spacing: functions.rem(-0.5);
 }
 
 .main {
